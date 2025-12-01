@@ -1,4 +1,4 @@
-# azure-iot-smart-storage
+# Azure IoT Smart Storage System
 
 A hybrid smart storage solution built using azure IoT Hub, Blob Storage and Time Series Insights.
 The system ingests real-time device telemetry, enforces secure access, and automates on business logic.
