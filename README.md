@@ -38,6 +38,7 @@ The system ingests real-time device telemetry, enforces secure access, and autom
 - Modular design for scaling more devices or sensors
 
 ## Project Documentation
-docs/Azure-IoT-Smart-Storage-UnnatiPandya.pdf
+**Full Report** → [Azure IoT Smart Storage — Unnati Pandya](docs/Azure-IoT-Smart-Storage-UnnatiPandya.pdf)
+
 
 
