@@ -33,3 +33,6 @@ The system ingests real-time device telemetry, enforces secure access, and autom
 - Automated alerts for abnormal conditions
 - Improved visibility into IoT system health
 - Modular design for scaling more devices or sensors
+
+**Full Project Report → [Download PDF](docs/Azure-IoT-Smart-Storage-UnnatiPandya.pdf)**
+
