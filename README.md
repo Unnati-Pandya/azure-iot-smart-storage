@@ -1,3 +1,6 @@
+**Project Owner:** Unnati Pandya  
+**Tech Stack:** Azure IoT Hub, Blob Storage, Time Series Insights, Event Grid
+
 # Azure IoT Smart Storage System
 
 A hybrid smart storage solution built using azure IoT Hub, Blob Storage and Time Series Insights.
