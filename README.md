@@ -25,7 +25,7 @@ The system ingests real-time device telemetry, enforces secure access, and autom
 - Policies to reduce unnecessary data flow and storage usage
 
 ## Architecture Flow
-* Devices -> IoT Hub -> Event Grid -> Azure Functions -> Storage / Insights *
+  *Devices -> IoT Hub -> Event Grid -> Azure Functions -> Storage / Insights*
 - Device telemetry flows to IoT Hub
 - Events (tempreture, capacity, errors) triggers Azure Functions
 - Alerts or commands are then sent back to devices
